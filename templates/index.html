@@ -32,10 +32,11 @@
             </div>
         </div>
         <div class="right1 w-10/12 flex justify-center items-center flex-col">
-            <div class=" text-center w-full text-4xl font-bold my-10">
-                ChatGPT
+            <div class=" flex justify-center items-center text-center w-full text-4xl font-bold mt-20 mb-10 space-x-2">
+                <div><img class="w-10 h-10" src="https://chat.openai.com/favicon.ico" alt=""></div>
+                <div>ChatGPT</div>
             </div>
-            <div class="itemsrow flex py-5 w-[60vw] bg-red-400 justify-around">
+            <div class="itemsrow flex mt-15 pt-5 w-[60vw]  justify-around">
                 <div class="examples flex flex-col justify-center items-center">
                     <svg stroke="currentColor" fill="none" stroke-width="1.5" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="h-6 w-6" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
                     <div class="pb-3 pt-1 text-xl">Examples</div>
@@ -58,7 +59,7 @@
                     <button class="bg-gray-600 w-[18vw] hover:bg-gray-700 py-3 px-4 mx-2 my-2 rounded-md">Limited knowledge of world and events after 2021</button>
                 </div>
             </div>
-            <div class="input w-full text-center my-24 flex items-center justify-center flex-col">
+            <div class="input w-full text-center mt-24 flex items-center justify-center flex-col">
                 
                 <div class="buttonsvg pl-12 w-[60vw] flex">
                     <input class="w-[100%] px-4 py-4 bg-gray-600 rounded-md" placeholder="Send a Message" type="text" name="text" id="questionInput">
@@ -67,13 +68,13 @@
                         
                     </button>
                 </div>
-                <div class="text-sm py-2 pr-15 opacity-70">
+                <div class="text-sm pt-2 pr-15 opacity-70">
                     This model may produce inaccurate information about people, places, or facts. 
                 </div>
             </div>
         </div>
         
-        <div class="right2 w-full flex flex-col justify-center items-center h-fit">
+        <div class="right2 w-10/12 flex flex-col justify-center items-center h-fit">
             <div class="box1 m-auto  py-7 space-x-6 flex justify-start w-[40vw] items-center">
                 <img class="w-10" src="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAAcHTte8enyHbAjiTcdAS9ozhcq1PrLbi-7x_v1E9qe-cgY8%3Ds96-c&w=48&q=75" alt="">
                 <div id="question2"> Loading...</div>
@@ -89,19 +90,21 @@
                 </div>
                 
             </div>
-            <div class="input pt-80 w-full text-center mt-24 flex items-center justify-center flex-col">
-                
+            
+            <div class="input fixed bottom-0 left-12 w-full text-center ml-5 mb-5 flex items-center justify-center flex-col">
                 <div class="buttonsvg pl-12 w-[60vw] flex">
-                    <input class="w-[100%] px-4 py-4 bg-gray-600 rounded-md" placeholder="Send a Message" type="text" name="text" id="">
-                    <button class="relative -left-20 pl-10">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="none" class="h-4 w-4 m-1 md:m-0" stroke-width="2"><path d="M.5 1.163A1 1 0 0 1 1.97.28l12.868 6.837a1 1 0 0 1 0 1.766L1.969 15.72A1 1 0 0 1 .5 14.836V10.33a1 1 0 0 1 .816-.983L8.5 8 1.316 6.653A1 1 0 0 1 .5 5.67V1.163Z" fill="currentColor"></path></svg>
-                        
-                    </button>
+                  <input class="w-[100%] px-4 py-4 bg-gray-600 rounded-md" placeholder="Send a Message" type="text" name="text" id="">
+                  <button class="relative -left-20 pl-10">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="none" class="h-4 w-4 m-1 md:m-0" stroke-width="2">
+                      <path d="M.5 1.163A1 1 0 0 1 1.97.28l12.868 6.837a1 1 0 0 1 0 1.766L1.969 15.72A1 1 0 0 1 .5 14.836V10.33a1 1 0 0 1 .816-.983L8.5 8 1.316 6.653A1 1 0 0 1 .5 5.67V1.163Z" fill="currentColor"></path>
+                    </svg>
+                  </button>
                 </div>
                 <div class="text-sm py-2 pr-15 opacity-70">
-                    This model may produce inaccurate information about people, places, or facts. 
+                  This model may produce inaccurate information about people, places, or facts.
                 </div>
-            </div>
+              </div>
+              
             
         </div>
     </div>

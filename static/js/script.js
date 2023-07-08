@@ -10,9 +10,6 @@ async function postData(url = "", data = {}) {
     return response.json(); 
   }
   
-  
-
-
 sendButton.addEventListener("click",async()=>{
     // alert("Hey you clicked")
     questionInput=document.getElementById("questionInput").value;
