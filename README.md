@@ -48,19 +48,19 @@ Make sure you have the following installed on your system:
 - The chat history is stored in the MongoDB database and can be accessed later.
 
 ## Examples
-![Screenshot (2163)](https://github.com/HarmlessCoder/ChatGPT-clone/assets/95159170/1b580704-2f49-4ff4-8b3d-3059c07c606c)
+![Screenshot (2163)](https://github.com/HarmlessCoder/ChatGPT-clone/assets/95159170/815b8dff-2e0d-46a7-9887-d7ed9defb442)
 
-![Screenshot (2151)](https://github.com/HarmlessCoder/ChatGPT-clone/assets/95159170/81dd124e-62e0-4e43-ba3f-ed14987f14c8)
+![Screenshot (2151)](https://github.com/HarmlessCoder/ChatGPT-clone/assets/95159170/2892330e-2cc6-4171-880a-3634a96c747a)
 
-![Screenshot (2152)](https://github.com/HarmlessCoder/ChatGPT-clone/assets/95159170/98a78777-3366-4582-b934-0430c9de187b)
+![Screenshot (2152)](https://github.com/HarmlessCoder/ChatGPT-clone/assets/95159170/4228bde0-ac12-44bb-baa5-45c8c69526d0)
 
-![Screenshot (2154)](https://github.com/HarmlessCoder/ChatGPT-clone/assets/95159170/e10841b6-eb45-49fc-90fb-78252c29d8be)
+![Screenshot (2154)](https://github.com/HarmlessCoder/ChatGPT-clone/assets/95159170/88ba9308-2d90-4fa9-b336-24efede6e9dc)
 
-![Screenshot (2156)](https://github.com/HarmlessCoder/ChatGPT-clone/assets/95159170/3e3a37fd-c337-4e3c-9070-ca5cca397b92)
+![Screenshot (2156)](https://github.com/HarmlessCoder/ChatGPT-clone/assets/95159170/87b2c316-3430-4cb4-a20e-9fb93e8ce330)
 
-![Screenshot (2158)](https://github.com/HarmlessCoder/ChatGPT-clone/assets/95159170/e9efbf63-91ca-49c0-a50b-366351a32be3)
+![Screenshot (2158)](https://github.com/HarmlessCoder/ChatGPT-clone/assets/95159170/c77b7710-9813-45d8-8f29-26633eb1d43b)
 
-![Screenshot (2161)](https://github.com/HarmlessCoder/ChatGPT-clone/assets/95159170/e0711179-00ab-40c7-bb8b-052d0724f15a)
+![Screenshot (2161)](https://github.com/HarmlessCoder/ChatGPT-clone/assets/95159170/dc184222-e403-4ffb-b77a-67d7242d2f5f)
 
 
 
