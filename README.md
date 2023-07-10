@@ -48,19 +48,19 @@ Make sure you have the following installed on your system:
 - The chat history is stored in the MongoDB database and can be accessed later.
 
 ## Examples
-![image](https://raw.githubusercontent.com/HarmlessCoder/ChatGPT-clone/main/assets/Screenshot%20(2163).png?token=GHSAT0AAAAAACEJ43AXPOVY7S72WLCYH7ZEZFLJ4ZQ)
+![Screenshot (2163)](https://github.com/HarmlessCoder/ChatGPT-clone/assets/95159170/1b580704-2f49-4ff4-8b3d-3059c07c606c)
 
-![image](https://raw.githubusercontent.com/HarmlessCoder/ChatGPT-clone/main/assets/Screenshot%20(2151).png?token=GHSAT0AAAAAACEJ43AXYUYNGLCVXHWGWRP6ZFLJ5JA)
+![Screenshot (2151)](https://github.com/HarmlessCoder/ChatGPT-clone/assets/95159170/81dd124e-62e0-4e43-ba3f-ed14987f14c8)
 
-![image](https://raw.githubusercontent.com/HarmlessCoder/ChatGPT-clone/main/assets/Screenshot%20(2152).png?token=GHSAT0AAAAAACEJ43AXK4JMK3BBRHP2RT4CZFLJ5VA)
+![Screenshot (2152)](https://github.com/HarmlessCoder/ChatGPT-clone/assets/95159170/98a78777-3366-4582-b934-0430c9de187b)
 
-![image](https://raw.githubusercontent.com/HarmlessCoder/ChatGPT-clone/main/assets/Screenshot%20(2154).png?token=GHSAT0AAAAAACEJ43AXEO76EB6XFNA2SX7EZFLJ6EQ)
+![Screenshot (2154)](https://github.com/HarmlessCoder/ChatGPT-clone/assets/95159170/e10841b6-eb45-49fc-90fb-78252c29d8be)
 
-![image](https://raw.githubusercontent.com/HarmlessCoder/ChatGPT-clone/main/assets/Screenshot%20(2156).png?token=GHSAT0AAAAAACEJ43AXMVMNIHVFOFHOQOVOZFLJ6QA)
+![Screenshot (2156)](https://github.com/HarmlessCoder/ChatGPT-clone/assets/95159170/3e3a37fd-c337-4e3c-9070-ca5cca397b92)
 
-![image](https://raw.githubusercontent.com/HarmlessCoder/ChatGPT-clone/main/assets/Screenshot%20(2158).png?token=GHSAT0AAAAAACEJ43AXHH25HYP3LF7M4MIEZFLJ63A)
+![Screenshot (2158)](https://github.com/HarmlessCoder/ChatGPT-clone/assets/95159170/e9efbf63-91ca-49c0-a50b-366351a32be3)
 
-![image](https://raw.githubusercontent.com/HarmlessCoder/ChatGPT-clone/main/assets/Screenshot%20(2161).png?token=GHSAT0AAAAAACEJ43AXOKF4M2UJC7EADRCQZFLJ7HA)
+![Screenshot (2161)](https://github.com/HarmlessCoder/ChatGPT-clone/assets/95159170/e0711179-00ab-40c7-bb8b-052d0724f15a)
 
 
 
